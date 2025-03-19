@@ -1,0 +1,27 @@
+.body{
+ display: inline-block;
+ border: solid black 2px;   
+}
+.w{
+    background-color: white;
+    height: 350px;
+    width: 500px;
+}
+.b{
+    background-color: #0066B3;
+    width: 495px;
+    height: 118px;
+    position: absolute;
+    top: 12px;
+    left: 12px;
+}
+.l{
+    background-color: black;
+    width: 495px;
+    height: 118px;
+    position: absolute;
+    top: 130px;
+    left: 12px;
+}
+
+
